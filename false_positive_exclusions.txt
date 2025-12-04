@@ -1,11 +1,15 @@
 APClips
 Archive.org
+Audiojungle
+Code Snippet Wiki
 Coders Rank
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,4 +19,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
