@@ -1,9 +1,7 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 Coders Rank
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,3 +17,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
