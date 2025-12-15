@@ -1,6 +1,9 @@
 APClips
 Archive.org
+Audiojungle
+Blogger
 Code Snippet Wiki
+Coders Rank
 DeviantArt
 Fandom
 GNOME VCS
@@ -17,4 +20,6 @@ Trovo
 Vero
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster
