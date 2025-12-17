@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -7,7 +8,6 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
 PocketStars
@@ -18,5 +18,7 @@ Splice
 Spotify
 Trovo
 Weblate
+YandexMusic
 opennet
 svidbook
+xHamster
