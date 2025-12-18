@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -21,4 +20,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
