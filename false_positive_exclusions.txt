@@ -1,12 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -21,3 +21,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
