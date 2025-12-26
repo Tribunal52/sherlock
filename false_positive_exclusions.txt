@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -12,7 +11,6 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -20,7 +18,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
-xHamster
