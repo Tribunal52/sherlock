@@ -1,11 +1,12 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 Minecraft
