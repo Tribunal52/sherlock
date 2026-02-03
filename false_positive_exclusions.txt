@@ -1,7 +1,5 @@
 APClips
-Anilist
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -14,12 +12,14 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
 Trovo
+TryHackMe
 Weblate
 YandexMusic
 mercadolivre
