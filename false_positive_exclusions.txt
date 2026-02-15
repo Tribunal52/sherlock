@@ -1,21 +1,23 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Cracked Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
+Gumroad
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
