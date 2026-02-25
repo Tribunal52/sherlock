@@ -1,9 +1,5 @@
 APClips
 Archive.org
-Chess
-Code Snippet Wiki
-Coders Rank
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -11,7 +7,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -22,7 +17,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
