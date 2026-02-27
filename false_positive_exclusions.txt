@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 DeviantArt
 GNOME VCS
 GeeksforGeeks
