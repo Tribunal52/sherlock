@@ -5,6 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
