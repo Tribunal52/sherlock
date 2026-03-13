@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Chatujme.cz
 Codolio
 DeviantArt
 GNOME VCS
@@ -8,11 +7,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,3 +28,4 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
+xHamster
