@@ -2,6 +2,7 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+Fosstodon
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -12,7 +13,6 @@ LushStories
 Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,4 +30,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
