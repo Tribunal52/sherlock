@@ -1,17 +1,14 @@
 APClips
 Archive.org
-CGTrader
 Codolio
-Cults3D
 DeviantArt
 DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -27,6 +24,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
