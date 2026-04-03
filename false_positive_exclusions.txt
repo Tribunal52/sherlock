@@ -13,7 +13,6 @@ LushStories
 Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
