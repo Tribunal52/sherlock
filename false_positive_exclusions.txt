@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -10,7 +11,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Pornhub
@@ -25,6 +26,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -32,3 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
