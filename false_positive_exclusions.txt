@@ -12,7 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
+LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -20,7 +21,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
