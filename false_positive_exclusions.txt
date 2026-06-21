@@ -1,6 +1,7 @@
 7Cups
 APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -14,6 +15,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Odysee
@@ -41,4 +43,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
