@@ -6,15 +6,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitBook
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -42,5 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
