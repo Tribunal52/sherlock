@@ -13,12 +13,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
+HackerRank
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+LushStories
 Odysee
 PCGamer
 Patched
@@ -39,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
