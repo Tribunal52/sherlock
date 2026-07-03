@@ -13,13 +13,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 LushStories
-Odysee
 PCGamer
 Patched
 Pornhub
@@ -43,7 +41,8 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
