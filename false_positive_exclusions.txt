@@ -7,6 +7,8 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+Cracked Forum
+Crevado
 DeviantArt
 Discord.bio
 Envato Forum
@@ -29,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
