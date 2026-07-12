@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,8 +8,6 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-Cracked Forum
-Crevado
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,9 +18,11 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +32,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -45,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
