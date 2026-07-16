@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -21,7 +20,7 @@ LinkedIn
 LushStories
 Odysee
 PCGamer
-Pornhub
+Patched
 Rarible
 Realmeye
 Reddit
@@ -31,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
