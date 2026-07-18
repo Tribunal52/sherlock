@@ -15,7 +15,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -26,6 +28,7 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
