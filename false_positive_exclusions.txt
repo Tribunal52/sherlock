@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
@@ -15,9 +14,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
-LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,7 +24,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
