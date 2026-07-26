@@ -1,11 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -17,7 +17,6 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
