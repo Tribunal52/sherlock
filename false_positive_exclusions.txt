@@ -1,12 +1,14 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chatujme.cz
 Codolio
-DEV Community
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,7 +19,7 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
-Minecraft
+NICommunityForum
 Odysee
 PCGamer
 Patched
@@ -27,7 +29,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-Scribd
 SlideShare
 Splice
 Spotify
@@ -43,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
