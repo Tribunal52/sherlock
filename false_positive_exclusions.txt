@@ -16,11 +16,11 @@ Giphy
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -30,12 +30,9 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Signal
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
 Weblate
