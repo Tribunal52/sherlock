@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -37,6 +38,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -48,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
