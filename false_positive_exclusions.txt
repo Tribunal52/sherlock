@@ -6,8 +6,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+Carbonmade
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,6 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 Odysee
@@ -49,3 +53,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
