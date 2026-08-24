@@ -21,6 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -49,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
