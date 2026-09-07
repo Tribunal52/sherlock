@@ -6,14 +6,12 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -22,7 +20,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -44,7 +41,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
