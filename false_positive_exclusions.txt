@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,10 +8,10 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -19,11 +20,12 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -49,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
