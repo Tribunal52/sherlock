@@ -5,6 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -21,6 +23,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,10 +31,12 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
