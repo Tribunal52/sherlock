@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,6 +9,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 Cracked Forum
 DeviantArt
@@ -21,10 +23,12 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,7 +41,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
