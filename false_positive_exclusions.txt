@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -15,9 +14,9 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
-Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -56,3 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
