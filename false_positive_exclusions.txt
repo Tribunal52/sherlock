@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -29,7 +28,6 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -39,6 +37,8 @@ Scribd
 SlideShare
 Splice
 Spotify
+Status Cafe
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -47,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-fl
 hunting
 interpals
 mercadolivre
@@ -55,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
