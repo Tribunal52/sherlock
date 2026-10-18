@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
+Coders Rank
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +16,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
@@ -23,6 +24,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 Minecraft
 ObservableHQ
@@ -41,7 +43,6 @@ Trakt
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
