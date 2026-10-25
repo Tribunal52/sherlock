@@ -8,6 +8,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,7 +23,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
