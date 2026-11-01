@@ -7,13 +7,16 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -21,6 +24,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 ObservableHQ
 Odysee
@@ -48,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
