@@ -1,5 +1,5 @@
-APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -11,12 +11,10 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -24,12 +22,11 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LiveJournal
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -38,8 +35,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -52,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
