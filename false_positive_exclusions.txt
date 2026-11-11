@@ -4,8 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -20,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Kvinneguiden
 LinkedIn
 Linktree
 LushStories
@@ -32,11 +29,11 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -45,7 +42,6 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
