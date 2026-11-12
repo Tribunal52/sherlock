@@ -2,24 +2,19 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 LinkedIn
-Linktree
 LushStories
 ObservableHQ
 Odysee
@@ -42,6 +37,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
