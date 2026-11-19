@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Championat
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -13,10 +12,10 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
-HackerRank
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 LinkedIn
 Linktree
 LushStories
