@@ -3,13 +3,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
 DeviantArt
 Discord.bio
-Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -44,7 +42,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
-xHamster
