@@ -2,7 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+BoardGameGeek
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -11,7 +11,6 @@ Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
-HackerRank
 Hashnode
 Hubski
 Instapaper
@@ -30,10 +29,10 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
