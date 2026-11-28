@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -22,7 +21,6 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,4 +44,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
+xHamster
